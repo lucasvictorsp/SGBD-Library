@@ -10,4 +10,4 @@ Obs.: o SGBD usa a função system, por isso só funciona corretamente no linux.
 Exemplo de como compilar o algoritmo: g++ library.cpp -o lib<br/>
 Exemplo de como executar: ./lib<br/>
 <br/>
-![alt text](https://github.com/lucasvictorsp/Peg-solitaire/blob/main/exemplos%20de%20tabuleiro.png)
+![alt text](https://github.com/lucasvictorsp/SGBD-Library/blob/main/Example.png)
